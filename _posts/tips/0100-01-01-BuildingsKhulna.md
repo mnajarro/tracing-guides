@@ -1,6 +1,6 @@
 ---
 tipid: khulnabuilding
-title: Building
+title: Buildings
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6421057/87f35406-be99-11e4-9e9d-d35a60a931ad.PNG
