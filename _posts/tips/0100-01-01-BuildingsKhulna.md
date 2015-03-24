@@ -15,4 +15,4 @@ Buildings in this region are typically one story structures constructed from con
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Buildings" target="_blank">Buildings Wiki</a>.
 
-Here is an example of a large ditch.  This ditch is used to drain water from adjacent fields so they can be used for agriculture purposes.  Notice the bridge and large truck in the photo.
+Here is an example of common buildings. Notice the different roofs of the buildings in the ground photo.
